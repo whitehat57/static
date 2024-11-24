@@ -2,5 +2,5 @@
 
 usage
 ```
-node STATIC.js <url> <threads> <time>
+node static.js <url> <threads> <time>
 ```
